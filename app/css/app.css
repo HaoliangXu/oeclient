@@ -1,8 +1,15 @@
-﻿body {
+﻿html {
+    height:100%;
+    -webkit-user-select: none;
+}
+* {
+}
+body {
+    height:100%;
     margin:0;
     padding:0;
 }
 #earthmap {
-    height:500px;
-    width:800px;
+    height:90%;
+    width:100%;
 }
