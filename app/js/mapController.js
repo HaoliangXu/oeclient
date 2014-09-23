@@ -1,4 +1,5 @@
-﻿var earthmap = {};
+﻿var map = angular.module("mapController", []);
+var earthmap = {};
 function initialize(){
     var pyrmont = new google.maps.LatLng(-33.8665433, 151.1956316);
     var mapOptions = {
