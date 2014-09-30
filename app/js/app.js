@@ -1,1 +1,1 @@
-﻿var app = angular.module("app", ["mapVendor"]);
+﻿var app = angular.module('app', ['gamePanel', 'account', 'dataVendor', 'l10n', 'placePanel', 'settingsPanel', 'tradePanel']);
