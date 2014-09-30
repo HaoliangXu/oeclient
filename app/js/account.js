@@ -1,0 +1,1 @@
+account = angular.module('account', []);
