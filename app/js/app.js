@@ -1,1 +1,1 @@
-﻿var app = angular.module("app", ["mapController"]);
+﻿var app = angular.module("app", ["mapVendor"]);
